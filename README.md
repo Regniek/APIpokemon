@@ -51,7 +51,7 @@ este es su uso principal, pero agrege un pequeño algoritmo para poder combinar 
 para agregar actualizaciones, recuerda siempre hace run frok al repo y luego enviar tu pull request, estare muy contento de leerlo y con gusto hacerle un merge.
 
 ### PostData:
-no olvides pasar por  [Regniek.dev](https:www.regniek.dev), y recuerda cualquier feedback es amor y lo recibire con gusto, gracias por leerme.
+no olvides pasar por  [Regniek.dev](https//:www.regniek.dev), y recuerda cualquier feedback es amor y lo recibire con gusto, gracias por leerme.
 
 
 
